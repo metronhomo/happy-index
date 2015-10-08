@@ -1,0 +1,17 @@
+library(shiny)
+library(knitr)
+library(tidyr)
+library(dplyr)
+library(lubridate)
+library(ggplot2)
+library(scales)
+library(corrplot)
+library(psych)
+library(mirt)
+library(qgraph)
+library(randomForest)
+
+source("helpers.R")
+options(digits=5)
+
+load('data/30_Septiembre.RData')

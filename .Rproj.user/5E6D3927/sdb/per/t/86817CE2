@@ -1,0 +1,17 @@
+{
+    "contents" : "library(shiny)\nlibrary(knitr)\nlibrary(tidyr)\nlibrary(dplyr)\nlibrary(lubridate)\nlibrary(ggplot2)\nlibrary(scales)\nlibrary(corrplot)\nlibrary(psych)\nlibrary(mirt)\nlibrary(qgraph)\nlibrary(randomForest)\n\nsource(\"helpers.R\")\noptions(digits=5)\n\nload('data/30_Septiembre.RData')\n",
+    "created" : 1442604485664.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3068757842",
+    "id" : "86817CE2",
+    "lastKnownWriteTime" : 1443828240,
+    "path" : "~/Box Sync/Trabajo2/happy index/aplicación/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
